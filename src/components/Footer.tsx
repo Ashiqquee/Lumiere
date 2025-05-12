@@ -129,7 +129,7 @@ const Footer = () => {
         <div className="border-t border-white/10 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-black/60 text-sm mb-4 md:mb-0">
-              © 2023 Lumière. All rights reserved.
+              © 2023 Ashiqquee. All rights reserved.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link href="/" className="text-black/60 hover:text-black text-sm">
