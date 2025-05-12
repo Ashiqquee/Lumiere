@@ -35,16 +35,12 @@ The project includes several well-crafted components:
 - `NewsletterSection` - Email subscription component
 - `Footer` - Site footer with navigation and contact information
 
-## Getting Started
+
 
 To run this project locally:
 
 ```bash
-# Clone the repository
-git clone <repository-url>
 
-# Navigate to the project directory
-cd lumiere-jewelry
 
 # Install dependencies
 npm install
